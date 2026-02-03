@@ -1,7 +1,7 @@
-openai>=1.30.0
-langchain==0.3.25
-langchain-core==0.3.25
-langchain-openai==0.3.8
-langchain-community==0.3.25
-faiss-cpu==1.13.0
-pypdf==5.6.0
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
